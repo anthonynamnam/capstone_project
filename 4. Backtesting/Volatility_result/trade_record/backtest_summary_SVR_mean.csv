@@ -1,0 +1,14 @@
+Stock,mean_Buy&Hold_Profit,mean_WithModel_Profit,mean_Buy&Hold_CAGR(in %),mean_WithModel_CAGR(in %),mean_CAGR_Performance(in %),mean_Buy&Hold_MDD(in %),mean_WithModel_MDD(in %),mean_MDD_Performance(in %)
+Xgb_Airline-,1801.64,1728.35,18.02,17.28,-0.73,-29.63,-29.31,0.32
+Xgb_BlockChain-,4666.96,5231.77,46.67,52.32,5.65,-44.52,-42.88,1.65
+Xgb_Cloud Computing-,2025.24,1982.92,20.25,19.83,-0.42,-31.47,-30.19,1.28
+Xgb_Energy & Resources-,892.62,878.46,8.93,8.79,-0.14,-32.31,-27.74,4.57
+Xgb_Entertainment-,3317.53,3365.54,33.18,33.66,0.48,-38.04,-36.68,1.36
+Xgb_Franchise-,2027.3,2093.05,20.27,20.93,0.66,-28.01,-27.77,0.24
+Xgb_Luxury goods-,1800.96,1788.26,18.01,17.88,-0.13,-35.3,-34.05,1.25
+Xgb_Real Estate-,1289.93,961.22,12.9,9.61,-3.29,-27.13,-25.24,1.88
+Xgb_Retail-,2409.07,2166.96,24.09,21.67,-2.42,-32.14,-29.95,2.19
+Xgb_Semiconductors-,4291.81,2314.26,42.92,23.14,-19.78,-44.77,-26.89,17.88
+Xgb_Social Media-,2610.24,2234.7,26.1,22.35,-3.76,-50.45,-33.9,16.55
+Xgb_Telecommunication-,1763.18,1303.34,17.63,13.03,-4.6,-27.92,-24.78,3.14
+Xgb_Traveling-,1737.17,1710.61,17.37,17.11,-0.27,-34.96,-31.05,3.91
